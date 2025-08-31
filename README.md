@@ -27,24 +27,24 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeGuruSudip&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGuruSudip&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeGuruSudip&theme=radical" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/[YourGitHubUsername]/project1">Project 1</a> |
-  <a href="https://github.com/[YourGitHubUsername]/project2">Project 2</a> |
-  <a href="https://github.com/[YourGitHubUsername]/project3">Project 3</a>
+  <a href="https://github.com/CodeGuruSudip/project1">Project 1</a> |
+  <a href="https://github.com/CodeGuruSudip/project2">Project 2</a> |
+  <a href="https://github.com/CodeGuruSudip/project3">Project 3</a>
 </p>
 <p align="center">
-  Short descriptions of each project here. Add demo links, screenshots, or GIFs for more flair!
+       CHECK THIS OUT
 </p>
 
 ---
