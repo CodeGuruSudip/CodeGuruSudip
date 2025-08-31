@@ -16,17 +16,6 @@
 * 🔸 **Contact:** [sudip01.ghosh01@gmail.com](mailto:sudip01.ghosh01@gmail.com)
 
 ---
-
-## 📚 Table of Contents
-
-* [About Me](#about-me)
-* [Skills & Tools](#-skills--tools)
-* [Featured Projects](#-featured-projects)
-* [GitHub Stats](#-github-stats)
-* [Contact & Socials](#-contact--socials)
-
----
-
 ## About Me
 
 I’m a developer who enjoys turning ideas into reality with code. I focus on building maintainable, testable, and accessible web applications using modern JavaScript/TypeScript and Python ecosystems. I value clean design, fast performance, and simple developer experience.
@@ -49,32 +38,6 @@ If you want to collaborate or see a specific project in my portfolio, feel free 
 
 ---
 
-## 🌟 Featured Projects
-
-> Short descriptions, links and tech used. Replace titles and descriptions with your real projects.
-
-### 1) **Project 1** — *Web app / Dashboard*
-
-* **What:** A responsive dashboard that visualizes user analytics and KPIs.
-* **Tech:** React, Chart.js, Node.js, MySQL
-* 🔗 [Repository](https://github.com/CodeGuruSudip/project1) • 🔗 [Live Demo](#)
-
-### 2) **Project 2** — *E‑commerce / Storefront*
-
-* **What:** End‑to‑end store with product management and checkout flow.
-* **Tech:** Next.js, Tailwind CSS, Firebase
-* 🔗 [Repository](https://github.com/CodeGuruSudip/project2) • 🔗 [Live Demo](#)
-
-### 3) **Project 3** — *Automation / Scripts*
-
-* **What:** Set of automation scripts and utilities for data processing.
-* **Tech:** Python, Pandas, AWS Lambda
-* 🔗 [Repository](https://github.com/CodeGuruSudip/project3)
-
-> Tip: Add 1–2 screenshots for each project (use the repo `images/` folder) to make this section pop.
-
----
-
 ## 📊 GitHub
 
 <p align="center">
@@ -87,19 +50,6 @@ If you want to collaborate or see a specific project in my portfolio, feel free 
 </p>
 
 ---
-
-## 📈 Skill Progress
-
-<p align="center">
-- **Python** — `90%`  
-  <img src="https://progress-bar.dev/90/?title=Python" alt="Python skill"/>
-- **JavaScript** — `85%`  
-  <img src="https://progress-bar.dev/85/?title=JavaScript" alt="JavaScript skill"/>
-- **Node.js** — `80%`  
-  <img src="https://progress-bar.dev/80/?title=Node.js" alt="Node skill"/>
-- **MySQL** — `75%`  
-  <img src="https://progress-bar.dev/75/?title=MySQL" alt="MySQL skill"/>
-</p>
 
 ---
 
@@ -122,9 +72,6 @@ If you want to collaborate or see a specific project in my portfolio, feel free 
 
 ---
 
-## 📄 Resume
-
-Download my resume: **[Resume (PDF)](#)**
 
 ---
 
