@@ -1,10 +1,31 @@
+
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" alt="coding-gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7AFB8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiam!;AI+Enthusiast+%26+Researcher;Open+Source+Contributor;Always+Learning+Something+New!"/>
 </p>
 
-# Hi, I'm **Sudip Ghosh** 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Let's%20Innovate%20Together!&descAlignY=60"/>
+</p>
 
-> Passionate full‑stack developer from **Bangladesh** — building clean, performant web apps and delightful user experiences.
+<p align="center">
+  <a href="https://github.com/CodeGuruSudip?tab=followers">
+    <img src="https://img.shields.io/github/followers/CodeGuruSudip?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mr-sudip-ghosh//">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:sudip01.ghosh01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&style=social" alt="Gmail Badge">
+  </a>
+  <a href="https://CodeGuruSudip">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome&style=social" alt="Portfolio Badge">
+  </a>
+</p>
+
+<p align="center">
+  <em>“Any sufficiently advanced technology is indistinguishable from magic.”</em><br>
+  — Arthur C. Clarke
+</p>
 
 ---
 
